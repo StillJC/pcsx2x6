@@ -1,8 +1,10 @@
+// SPDX-FileCopyrightText: 2002-2026 PCSX2 Dev Team
+// SPDX-License-Identifier: GPL-3.0+
+
 #include "BuildVersion.h"
 #include "CDVD/CDVDcommon.h"
 #include "GS/Renderers/Common/GSDevice.h"
 #include "GS/Renderers/Common/GSTexture.h"
-
 #include "Achievements.h"
 #include "CDVD/CDVDdiscReader.h"
 #include "GameList.h"
